@@ -17,7 +17,7 @@ The most difficult level in the campaign is titled "The Disappearance of Hatsune
 
 # Usage
 
-It is a requirement to have a stand-alone Adobe Flash Player (it was only tested with version 16). The link to the game is:
+It is a requirement to have a stand-alone Adobe Flash Player. It has only been test on version 16 and it can be found in the Flash Player folder. The link to the game is (this is for linking the stand-alone player to the game):
 ~~~
 http://www.flashflashrevolution.com/~velocity/R%5E3.swf
 ~~~
