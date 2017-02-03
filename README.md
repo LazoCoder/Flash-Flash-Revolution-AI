@@ -1,5 +1,5 @@
 # Flash-Flash-Revolution-AI
-Artificial Intelligence that plays Flash Flash Revolution. This AI is undefeatable but not omnipotent. It will never lose a game, no matter the difficulty of the level. However, it does achieve perfect scores on harder levels.
+Artificial Intelligence that plays Flash Flash Revolution. This AI is undefeatable but not omnipotent. It will never lose a game, no matter the difficulty of the level. However, it does not achieve perfect scores on harder levels.
 
 # Details
 
