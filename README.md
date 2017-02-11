@@ -34,4 +34,4 @@ Each time a song is played afterwards, begin from step 4.
 
 ## Notes
 
-The External folder contains two essential .dll files that must be referenced for the code to work. These two files are WindowsAPI.dll and and ImageProcessing.dll and the code for these can be seen in my Task-Automation and Image-Processing-Library repositories respectively. 
+The External folder contains two essential .dll files that must be referenced for the code to work. These two files are WindowsAPI.dll and and ImageProcessing.dll and the code for these can be seen in my [WinAPI-Wrapper](https://github.com/LazoCoder/WinAPI-Wrapper) and [Image-Processing-Library](https://github.com/LazoCoder/Image-Processing-Library) repositories respectively. 
