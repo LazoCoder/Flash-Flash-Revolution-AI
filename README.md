@@ -5,15 +5,15 @@ Artificial Intelligence that plays Flash Flash Revolution. This AI is undefeatab
 
 The levels in the game range from 0 to 120. The following is a sample of the AI playing "Chaotic Sound", a level 39 song:
 
-![alt-tag] (Results/level_chaotic_sound.gif)
+![alt-tag](Results/level_chaotic_sound.gif)
 
 The results at the end of the game show that the AI did not miss a single incoming arrow.
 
-![alt-tag] (Results/result_chaotic_sound.png)
+![alt-tag](Results/result_chaotic_sound.png)
 
 The most difficult level in the campaign is titled "The Disappearance of Hatsune Miku", at level 103. Although the AI did make some mistakes it was able to get through the level with 87% accuracy. Despite not achieving a 100% accuracy I still find the results astounding as I personally cannot survive this level for even 2 seconds.
 
-![alt-tag] (Results/result_the_disappearance.png)
+![alt-tag](Results/result_the_disappearance.png)
 
 # Usage
 
